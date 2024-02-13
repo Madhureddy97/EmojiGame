@@ -1,0 +1,29 @@
+/* Write your code here. */
+.nav-container {
+  height: 10vh;
+  background-color: #9796f0;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+.nav-image-container {
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+}
+.nav-score-container {
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+}
+.emoji-game-title {
+  font-family: 'Roboto';
+  font-size: 20px;
+  color: #ffffff;
+}
+.score-title {
+  font-family: 'Roboto';
+  font-size: 20px;
+  color: #ffffff;
+  margin: 10px;
+}
